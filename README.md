@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://expert1.de5.net/s6ckujp.jpg" alt="Voxel Craft 预览图" width="100%">
   <br>
-  <em>（提示：运行项目后，请将此处的占位图替换为你自己的游戏截图）</em>
 </p>
 
 ---
