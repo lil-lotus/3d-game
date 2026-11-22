@@ -7,7 +7,7 @@
 ![WebGL](https://img.shields.io/badge/WebGL-2.0-990000?logo=webgl)
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/1e1b4b/6ee7a8?text=Voxel+Craft+Screenshot" alt="Voxel Craft 预览图" width="100%">
+  <img src="https://expert1.de5.net/s6ckujp.jpg" alt="Voxel Craft 预览图" width="100%">
   <br>
   <em>（提示：运行项目后，请将此处的占位图替换为你自己的游戏截图）</em>
 </p>
@@ -107,7 +107,7 @@ voxel-craft/
 ## 👤 作者
 
 **lil-lotus**
-🔗 [GitHub](https://github.com/your-username) (可替换为你的真实链接)
+🔗 [GitHub]https://github.com/lil-lotus/3d-game/
 💌 欢迎提交 Issue 或 Pull Request！
 
 ---
